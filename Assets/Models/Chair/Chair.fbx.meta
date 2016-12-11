@@ -34,11 +34,13 @@ ModelImporter:
     2300004: polySurface1
     2300006: legs1
     2300008: legs2
+    2300010: //RootNode
     3300000: legs
     3300002: legs3
     3300004: polySurface1
     3300006: legs1
     3300008: legs2
+    3300010: //RootNode
     4300000: legs
     4300002: legs3
     4300004: polySurface1
