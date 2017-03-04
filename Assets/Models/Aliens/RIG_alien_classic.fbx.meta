@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 6e89020f141bf934585d471c3a9009b5
+timeCreated: 1488652650
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: accessories_gr
+    100002: body
+    100004: eye_L
+    100006: eye_R
+    100008: eyelids_L
+    100010: eyelids_R
+    100012: GEO_alien_classic:polySurface1
+    100014: GEO_alien_classic:polySurface1 1
+    100016: GEO_alien_classic:polySurface2
+    100018: GEO_alien_classic:polySurface2 1
+    100020: GEO_alien_classic_gr
+    100022: hat
+    100024: head
+    100026: mustache
+    100028: poncho
+    100030: //RootNode
+    100032: skel_head1
+    100034: skel_head2
+    100036: skel_headEnd
+    100038: skel_neck
+    100040: skel_pelvis
+    100042: skel_root
+    100044: skel_spine1
+    100046: skel_spine2
+    400000: accessories_gr
+    400002: body
+    400004: eye_L
+    400006: eye_R
+    400008: eyelids_L
+    400010: eyelids_R
+    400012: GEO_alien_classic:polySurface1
+    400014: GEO_alien_classic:polySurface1 1
+    400016: GEO_alien_classic:polySurface2
+    400018: GEO_alien_classic:polySurface2 1
+    400020: GEO_alien_classic_gr
+    400022: hat
+    400024: head
+    400026: mustache
+    400028: poncho
+    400030: //RootNode
+    400032: skel_head1
+    400034: skel_head2
+    400036: skel_headEnd
+    400038: skel_neck
+    400040: skel_pelvis
+    400042: skel_root
+    400044: skel_spine1
+    400046: skel_spine2
+    2300000: GEO_alien_classic:polySurface1
+    2300002: GEO_alien_classic:polySurface1 1
+    2300004: GEO_alien_classic:polySurface2
+    2300006: GEO_alien_classic:polySurface2 1
+    3300000: GEO_alien_classic:polySurface1
+    3300002: GEO_alien_classic:polySurface1 1
+    3300004: GEO_alien_classic:polySurface2
+    3300006: GEO_alien_classic:polySurface2 1
+    4300000: eye_R
+    4300002: GEO_alien_classic:polySurface2
+    4300004: GEO_alien_classic:polySurface1
+    4300006: GEO_alien_classic:polySurface2
+    4300008: GEO_alien_classic:polySurface1
+    4300010: head
+    4300012: body
+    4300014: mustache
+    4300016: hat
+    4300018: poncho
+    4300020: eye_L
+    9500000: //RootNode
+    13700000: body
+    13700002: eye_L
+    13700004: eye_R
+    13700006: hat
+    13700008: head
+    13700010: mustache
+    13700012: poncho
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
