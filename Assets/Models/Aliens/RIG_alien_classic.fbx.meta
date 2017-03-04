@@ -29,6 +29,60 @@ ModelImporter:
     100042: skel_root
     100044: skel_spine1
     100046: skel_spine2
+    100048: joint8
+    100050: skel_chin
+    100052: skel_faceRoot
+    100054: skel_L_ankle
+    100056: skel_L_ball
+    100058: skel_L_cheek
+    100060: skel_L_cheekBone
+    100062: skel_L_clav
+    100064: skel_L_elbow
+    100066: skel_L_fingerBase
+    100068: skel_L_fingerEnd
+    100070: skel_L_fingerMid
+    100072: skel_L_fingerTip
+    100074: skel_L_hip
+    100076: skel_L_indexBase
+    100078: skel_L_indexEnd
+    100080: skel_L_indexMid
+    100082: skel_L_indexTip
+    100084: skel_L_knee
+    100086: skel_L_mouth
+    100088: skel_L_shoulder
+    100090: skel_L_thumbBase
+    100092: skel_L_thumbEnd
+    100094: skel_L_thumbMid
+    100096: skel_L_thumbTip
+    100098: skel_L_toe
+    100100: skel_L_wrist
+    100102: skel_lip_lower
+    100104: skel_lip_upper
+    100106: skel_mouthRoot
+    100108: skel_R_ankle
+    100110: skel_R_ball
+    100112: skel_R_cheek
+    100114: skel_R_cheekBone
+    100116: skel_R_clav
+    100118: skel_R_elbow
+    100120: skel_R_fingerBase
+    100122: skel_R_fingerEnd
+    100124: skel_R_fingerMid
+    100126: skel_R_fingerTip
+    100128: skel_R_hip
+    100130: skel_R_indexBase
+    100132: skel_R_indexEnd
+    100134: skel_R_indexMid
+    100136: skel_R_indexTip
+    100138: skel_R_knee
+    100140: skel_R_mouth
+    100142: skel_R_shoulder
+    100144: skel_R_thumbBase
+    100146: skel_R_thumbEnd
+    100148: skel_R_thumbMid
+    100150: skel_R_thumbTip
+    100152: skel_R_toe
+    100154: skel_R_wrist
     400000: accessories_gr
     400002: body
     400004: eye_L
@@ -53,6 +107,60 @@ ModelImporter:
     400042: skel_root
     400044: skel_spine1
     400046: skel_spine2
+    400048: joint8
+    400050: skel_chin
+    400052: skel_faceRoot
+    400054: skel_L_ankle
+    400056: skel_L_ball
+    400058: skel_L_cheek
+    400060: skel_L_cheekBone
+    400062: skel_L_clav
+    400064: skel_L_elbow
+    400066: skel_L_fingerBase
+    400068: skel_L_fingerEnd
+    400070: skel_L_fingerMid
+    400072: skel_L_fingerTip
+    400074: skel_L_hip
+    400076: skel_L_indexBase
+    400078: skel_L_indexEnd
+    400080: skel_L_indexMid
+    400082: skel_L_indexTip
+    400084: skel_L_knee
+    400086: skel_L_mouth
+    400088: skel_L_shoulder
+    400090: skel_L_thumbBase
+    400092: skel_L_thumbEnd
+    400094: skel_L_thumbMid
+    400096: skel_L_thumbTip
+    400098: skel_L_toe
+    400100: skel_L_wrist
+    400102: skel_lip_lower
+    400104: skel_lip_upper
+    400106: skel_mouthRoot
+    400108: skel_R_ankle
+    400110: skel_R_ball
+    400112: skel_R_cheek
+    400114: skel_R_cheekBone
+    400116: skel_R_clav
+    400118: skel_R_elbow
+    400120: skel_R_fingerBase
+    400122: skel_R_fingerEnd
+    400124: skel_R_fingerMid
+    400126: skel_R_fingerTip
+    400128: skel_R_hip
+    400130: skel_R_indexBase
+    400132: skel_R_indexEnd
+    400134: skel_R_indexMid
+    400136: skel_R_indexTip
+    400138: skel_R_knee
+    400140: skel_R_mouth
+    400142: skel_R_shoulder
+    400144: skel_R_thumbBase
+    400146: skel_R_thumbEnd
+    400148: skel_R_thumbMid
+    400150: skel_R_thumbTip
+    400152: skel_R_toe
+    400154: skel_R_wrist
     2300000: GEO_alien_classic:polySurface1
     2300002: GEO_alien_classic:polySurface1 1
     2300004: GEO_alien_classic:polySurface2
